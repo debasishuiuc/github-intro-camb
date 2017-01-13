@@ -2,6 +2,10 @@
 Repository for "A Friendly Github Intro Workshop"
 You can add comments on this about changes etc
 
+
+# Hello from Villads
+This is villadsegede testing fork+pull in your repo
+
 # Friendly Collaboration Party
 
 This repository is for planning a party to learn GitHub and more!
